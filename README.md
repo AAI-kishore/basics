@@ -1,1 +1,1 @@
-read me file 
+read me file talks about the repository 
